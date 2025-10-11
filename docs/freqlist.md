@@ -35,6 +35,8 @@ Stats: 19,494 words, 1,169 repeat-words, 2/3-rds of the words have examples. ~60
 
 A note on meanings/senses: Why are all senses of a word aggregated? Can you not emphasise the most frequent meaning? One of the key findings of the original thesis is that when a word is introduced to children at a given level, **all** senses/facets of this word are also introduced, i.e. they are not developed over time.
 
+[DETAILS ON COLUMNS AND DISTRIBUTION](freqlist_columns.md)
+
 ## Examples of usage
 
 430 grammar words have a sense, and most have one or more examples - good to find out which you already know, and which you should research or ask your teacher. Note that most rank pretty high in frequency, that figures.
