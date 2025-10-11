@@ -92,14 +92,14 @@ Normalized Frequency (NF) --ความยากง่ายในมิติ�
 | transparent   | 7778  |
 
 ## Correlation
-![grades vs ranks.png](assets/grades vs ranks.png "grades vs ranks")
+![grades vs ranks.png](./assets/grades vs ranks.png "grades vs ranks")
 **schooling levels vs 3k-bins** - words in the list (grouped in 3k words bins) compared with school levels
 - primary 1-3 (+pre-school)
 - primary 4-6
 - secondary 1-3
 - secondary 4-6
 
-![morphology vs semantics.png](assets/morphology vs semantics.png "morphology vs semantics") 
+![morphology vs semantics.png](/assets/morphology vs semantics.png "morphology vs semantics") 
 **morphology vs semantics**
 
 ![number of words in dictionaries.png](assets/number of words in dictionaries.png "number of words in dictionaries") 
