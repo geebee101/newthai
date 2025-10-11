@@ -7,7 +7,9 @@ The first 2,500-2,700 roughly correspond to primary school level. The whole list
 	
 ## Columns	
 **index** - the index in the source thesis (19,494 words).
+
 **word** - the Thai word
+
 Measures of complexity (from the orginal work)
 - **role** - Is it a content word, a grammar word, or both?
 - **morpho** (morphology) - Single word, combined, compound, complex, or Eng. loanword
@@ -16,15 +18,25 @@ Measures of complexity (from the orginal work)
 - **semantics** - From easy to hard: Single words and English transliterations, Transparent, Ambiguous words, Opaque words
 
 **senses** - textblock where each line is a type followed by the English meaning, e.g. Prep. To
+
 **examples** - most entries have one or more sample. [I personally have a strong dislike of Anki and the likes, I prefer to learn in context.)
+
 **classifiers** – one or more classifiers with their transliteration.
+
 **ipa** – phonetics (most ipa, a few ThaiPhon)
+
 **translit** - paiboon-esque transliteration **with** tone marks
+
 **audio** – 1 if an audio file exists (sorry not shareable at this stage)
+
 **audio_urls** –  1 or several URLs of audio in wikimedia
+
 **num_senses** - number of senses/meanings
+
 **weight** – 0 to 4 – how many dictionaries the word was found in
+
 **quality** – quality markers include: NO_SENSE, NO_IPA and NO_TRANSLIT
+
 **cumfreq** – the cumulative frequency in the original study, e.g. words 1 to 110 represent 50% of the occurrences in the 3M-words corpus.
 
 ## Details on some columns (caveats & distribution)
@@ -53,9 +65,13 @@ Normalized Frequency (NF) --ความยากง่ายในมิติ�
 ## Sources & licences	
 	
 The thesis [https://www.arts.chula.ac.th/~ling/TTC/], as far as I can tell is in the public domain.	
+
 Lexitron v2: [https://opend-portal.nectec.or.th/en/prepare/lexitron-2-0] NECTEC licence.	
+
 Wiktionary [https://th.wiktionary.org/] is licenced under CC BY-SA 4.0 (Attribution-Share Alike 4.0 International)	
+
 Volubilis v. 25.2 [https://belisan-volubilis.blogspot.com/], also under CC BY-SA 4.0.	
+
 The Royal Institute Dictionary 1999 is also under NECTEC licence.	
 	
 This product is created by the adaptation of LEXiTRON developed by NECTEC.	
