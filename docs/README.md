@@ -10,7 +10,8 @@ What is available?
 - enriched frequency lists;
 - tools used to produce the data.
 
-Home of the 20k frequency list.
+Home of the 20k frequency list:
+The แจ่มไพบูลย์/แรช Frequency List for Thai Learners v2 is the enhanced version of the list as adapted for (English-speaking) Thai learners. [Overview](freqlist.md)
 
 Licences:
 - licence for the data and assets is CC BY-SA 4.0.
