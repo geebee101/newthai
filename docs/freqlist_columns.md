@@ -93,6 +93,9 @@ Normalized Frequency (NF) --ความยากง่ายในมิติ�
 
 ## Correlation
 ![grades vs ranks.png](/assets/grades vs ranks.png "grades vs ranks")\
+<picture>
+  <img src="/assets/grades vs ranks.png" alt="grades vs ranks" />
+</picture>\
 **schooling levels vs 3k-bins** - words in the list (grouped in 3k words bins) compared with school levels
 - primary 1-3 (+pre-school)
 - primary 4-6
