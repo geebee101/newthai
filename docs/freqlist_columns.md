@@ -60,6 +60,51 @@ Normalized Frequency (NF) --ความยากง่ายในมิติ�
 |  |  |
 | ความทึบใสทางความหมาย Seman<br/>0 = คำเดี่ยวและคำทับศัพท์ภาษาอังกฤษ<br/>1 = คำใส<br/>2 = คำก้ำกึ่ง ไม่ทึบไม่ใส<br/>3 = คำทึบ | **Semantic opacity**<br/>0 = Single words and English transliterations<br/>1 = Transparent<br/>2 = Ambiguous words, neither opaque nor transparent<br/>3 = Opaque words |
 
+* * *
+## Distribution (complexity)
+| role          |       |
+| ------------- | ----- |
+| both          | 102   |
+| content       | 19052 |
+| grammar       | 340   |
+
+| morpho        |       |
+| ------------- | ----- |
+| combined      | 301   |
+| complex       | 1642  |
+| compound      | 7057  |
+| loan Eng.     | 551   |
+| repeated word | 1169  |
+| single        | 8774  |
+
+| spelling      |       |
+| ------------- | ----- |
+| 1             | 9470  |
+| 2             | 4732  |
+| 3             | 1540  |
+| 4-990         | 3752  |
+
+| semantics     |       |
+| ------------- | ----- |
+| ambiguous     | 1289  |
+| opaque        | 1102  |
+| single        | 9325  |
+| transparent   | 7778  |
+
+## Correlation
+![grades vs ranks.png](assets/grades vs ranks.png "grades vs ranks")
+**schooling levels vs 3k-bins** - words in the list (grouped in 3k words bins) compared with school levels
+- primary 1-3 (+pre-school)
+- primary 4-6
+- secondary 1-3
+- secondary 4-6
+
+![morphology vs semantics.png](assets/morphology vs semantics.png "morphology vs semantics") 
+**morphology vs semantics**
+
+![number of words in dictionaries.png](assets/number of words in dictionaries.png "number of words in dictionaries") 
+**number of words in dictionaries**
+
 
 * * *
 ## Sources & licences	
