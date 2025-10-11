@@ -4,7 +4,7 @@
 
 The original frequency list is the 2016 work of Dr. Tantong Champaiboon (Ph.D. from Chulalongkorn University, Linguistics Department). She studied a corpus of textbooks for Thai students age 3-16 yo. The list is organised by various dimensions: measures of complexity of the vocabulary, comparison across 4 age ranges and 4 historical and current curricula.
 
-The แจ่มไพบูลย์/แรช Frequency List for Thai Learners v2 is the enhanced version of the list as adapted for (English-speaking) Thai learners. [v1 in the same sub](https://www.reddit.com/r/learnthai/comments/1md1pmc/frequency_list_for_thai_learners).
+The แจ่มไพบูลย์/แรช Frequency List for Thai Learners v2 is the enhanced version of the list as adapted for (English-speaking) Thai learners. Reddit r/learnthai [for v2.4](https://www.reddit.com/r/learnthai/comments/1o3lzz0/textbooks_frequency_list_v2/) ... [v1 in the same sub](https://www.reddit.com/r/learnthai/comments/1md1pmc/frequency_list_for_thai_learners).
 
 ## Major caveat
 
@@ -12,7 +12,7 @@ The original study is useful to us adult Thai learners because of its domain: sc
 
 ## How many words do we need?
 
-Do we need all 19,494 words? No. 110 words represent half the corpus, and slightly less than 2,100 represent 90%. And with XYZ, you could read any of the textbooks at Extensive Reading level (95-98% Paul Nation, 2005), the first word reaching 95% cumulative frequency is at rank 3,856, the last 98% is at 8,361. On the other hand, 13,600 words are present in 3 or all 4 of the source dictionaries (see section ‘sources’), so they compose a ‘hard’ core of the Thai language (see the hexagon-based chart in the doc). 
+Do we need all 19,494 words? No. 110 words represent half the corpus, and slightly less than 2,100 represent 90%. And with say 6-7,000, you could read any of the textbooks at Extensive Reading level (95-98% Paul Nation, 2005), the first word reaching 95% cumulative frequency is at rank 3,856, the last 98% is at 8,361. On the other hand, 13,600 words are present in 3 or all 4 of the source dictionaries (see section ‘sources’), so they compose a ‘hard’ core of the Thai language (see the hexagon-based chart in the doc). 
 
 Furthermore, if you want to produce a list of 2,000 words with complex spelling, or 3,000 compound words, which are more than the sum of their parts, (see section ‘examples of use’), you need more than 2-3,000 overall. So, this long list gives us learners the flexibility we need, based on individuals’ goals.
 
@@ -25,11 +25,11 @@ Stats: 19,494 words, 1,169 repeat-words, 2/3-rds of the words have examples. ~60
 - all words in the original list are now included (19,494 instead of ~16k). 
 - all words have IPA phonetics **and** a sensible romanisation, with tones;
 - only 329 words have no meaning attached;
-- there should be no reapeated meanings, meanings have been tidyed up. 93% of the list now has only 1-2 senses.
+- there should be no repeated meanings, meanings have been tidyed up. 93% of the list now has only 1-2 senses.
 - Experimental features: (these are denoted in the sheet with a tag of [exper.])
 	- repeat-words are pointing back to their base-word, when it exists in the list.
 	- some compounds not found in dictionaries point to their (poss.) component-words,  when it exists in the list.
-	- loan-words: most are translated and have a transliteration (though a few defeat me). The transliteration is included so that we can learn to pronounce these words the Thai way, and thus be understood.
+	- loan-words: most are translated and have a transliteration (though a few defeat us). The transliteration is included so that we can learn to pronounce these words the Thai way, and thus be understood.
 - new column: Classifiers – out of 9178 nouns, 3244 (35%) have 1 or more classifiers (Thai word + transliteration).
 - changed: column 1 is now 'index'. Use it in combo with the last 2-3 columns on the right to produce your learning lists.
 
@@ -43,14 +43,14 @@ A note on meanings/senses: Why are all senses of a word aggregated? Can you not 
 
 ## Sources & licences
 
-The thesis [(link)](https://www.arts.chula.ac.th/~ling/TTC/), as far as I can tell is in the public domain.
-Lexitron v2: [(link)](https://opend-portal.nectec.or.th/en/prepare/lexitron-2-0) NECTEC licence.
-Wiktionary [(link)]([(link)](https://th.wiktionary.org/) is licenced under CC BY-SA 4.0 (Attribution-Share Alike 4.0 International)
-Volubilis v. 25.2 [(link)](https://belisan-volubilis.blogspot.com/), also under CC BY-SA 4.0.
+The thesis [(link)](https://www.arts.chula.ac.th/~ling/TTC/), as far as I can tell is in the public domain.  
+Lexitron v2: [(link)](https://opend-portal.nectec.or.th/en/prepare/lexitron-2-0) NECTEC licence.  
+Wiktionary [(link)]([(link)](https://th.wiktionary.org/) is licenced under CC BY-SA 4.0 (Attribution-Share Alike 4.0 International)  
+Volubilis v. 25.2 [(link)](https://belisan-volubilis.blogspot.com/), also under CC BY-SA 4.0.  
 The Royal Institute Dictionary 1999 is also under NECTEC licence.
 
 
-"This product is created by the adaptation of LEXiTRON developed by NECTEC."
+"This product is created by the adaptation of LEXiTRON developed by NECTEC."  
 This frequency list is shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), including the mention above as work derivative from a NECTEC production.
 
 
