@@ -123,14 +123,4 @@ This product is created by the adaptation of LEXiTRON developed by NECTEC.
 This frequency list is shared under CC BY-SA 4.0, including the mention above as work derivative from a NECTEC production.	
 
 
-
-TEST
-
-
-##### Here is an md caption
-  <img
-    src="assets/number of words in dictionaries.png"
-    alt="Test, not part of article" />
-
-
 .
