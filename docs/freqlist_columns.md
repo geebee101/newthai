@@ -126,12 +126,11 @@ This frequency list is shared under CC BY-SA 4.0, including the mention above as
 
 TEST
 
-<figure>
+
   <img
     src="assets/number of words in dictionaries.png"
     alt="Test, not part of article" />
-  <figcaption><bold>number of words in dictionaries</bold>></figcaption>
-</figure>
+##### Here is an md caption
 
 
 .
