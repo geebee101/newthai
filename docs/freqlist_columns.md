@@ -130,7 +130,7 @@ TEST
   <img
     src="assets/number of words in dictionaries.png"
     alt="Test, not part of article" />
-  <figcaption>**number of words in dictionaries**</figcaption>
+  <figcaption><bold>number of words in dictionaries</bold>></figcaption>
 </figure>
 
 
