@@ -127,10 +127,10 @@ This frequency list is shared under CC BY-SA 4.0, including the mention above as
 TEST
 
 
+##### Here is an md caption
   <img
     src="assets/number of words in dictionaries.png"
     alt="Test, not part of article" />
-##### Here is an md caption
 
 
 .
