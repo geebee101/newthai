@@ -121,3 +121,17 @@ The Royal Institute Dictionary 1999 is also under NECTEC licence.
 	
 This product is created by the adaptation of LEXiTRON developed by NECTEC.	
 This frequency list is shared under CC BY-SA 4.0, including the mention above as work derivative from a NECTEC production.	
+
+
+
+TEST
+
+<figure>
+  <img
+    src="assets/number of words in dictionaries.png"
+    alt="Test, not part of article" />
+  <figcaption>**number of words in dictionaries**</figcaption>
+</figure>
+
+
+.
