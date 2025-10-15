@@ -48,6 +48,7 @@ Measures of complexity (from the orginal work)
 Normalized Frequency (NF) --ความยากง่ายในมิติต่าง ๆ --learning levels 1 to 4
 
 ### ความยากง่ายในมิติต่าง ๆ (dimensions of difficulty/complexity)
+
 | Original work | List v2.4 for Thai L2 |
 |:---|:---|
 | คำเนื้อหา-คำไวยากรณ์ C/F<br/>C = คำเนื้อหา<br/>F = คำไวยากรณ์<br/>CF = คำที่เป็นได้ทั้งคำเนื้อหาและคำไวยากรณ์ | **role** - Is it a content word, a grammar word, or both? |
