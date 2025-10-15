@@ -62,6 +62,7 @@ Normalized Frequency (NF) --ความยากง่ายในมิติ�
 
 * * *
 ## Distribution (complexity)
+
 | role          |       |
 | ------------- | ----- |
 | both          | 102   |
