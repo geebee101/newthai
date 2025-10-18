@@ -1,0 +1,11 @@
+authors:
+  team:
+    name: Team
+    description: Creator
+    avatar: assets/people.svg
+    # from https://www.svgrepo.com/svg/381921/share-people-avatar-group
+    # https://simpleicons.org/icons/materialformkdocs.svg
+  # squidfunk:
+  #   name: Martin Donath
+  #   description: Creator
+  #   avatar: https://github.com/squidfunk.png
