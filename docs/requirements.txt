@@ -1,3 +1,4 @@
-mkdocs
-mkdocs-material
-pymdownx
+# already satisfied by dockerfile from mhausenblas/mkdocs-deploy-gh-pages
+# mkdocs
+# mkdocs-material
+pymdown-extensions
