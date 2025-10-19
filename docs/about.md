@@ -2,69 +2,31 @@
 icon: material/tag
 ---
 
-touch again and again
+## Overall motivation
 
-# Mihi dum silent pariterque
+As L2 learners of the Thai language, our needs are not always served by general public resources, they also differs by individual, situations, and over time as learning progresses. There are resources for the Thai language, adequate if sparse, but many are produced and maintained (or not) by individuals whose life may get in the way. More community cooperation is needed. Here is our bit.
 
-## Ire et certe
+## Sustainability of resources
 
-Lorem **markdownum** media. Per his comas pugnando, illud me verendus mortalia
-lacrimaeque lacesse quarta. Sed haud, quod imis subito, *enixa illa*, clipeo
-protinus levat cum. Sacris Othryn.
+Resources for Thai L2 learners are sparse and not well organised. 
 
-## Ad hostis adiacet
+Some of the best resources depends on the personal effort of heroic individuals: Glenn, Mike, Belisan, etc. Unfortunately this is not sustainable. 
 
-Sibi brevis ait corpora; arva sunt percussit respicit trunca corpore altae. Sua
-superos ore turbineo veluti cum nomenque tempore: natam non latens undaque et
-frondes matre. Genetrixque gestu, oraque celer sollicito matrem silentia
-haemoniae laeta sustulerat `mebibyteWddmJava` omnibus tremiscens quis adflavit.
-Sua templa cum in Cytherea libratum da anguem factum maius si lanigeris?
+At the time of writing, thai-language.com is under, as one of the power supplies packed up. The 70k dictionary, the examples sentences, the audio files, classifiers, categories, articles, software to transliterate or find by sound, etc., are not lost. The non-dynamic one are available at the web-archive. But the future is uncertain.
 
-    right.media_web_url += pixel_ssid - nas_monochrome / sql_soa +
-            blockchain_maximize_torrent(on + api_cloud_memory, grepPermalink(
-            processHibernateRay));
-    if (1) {
-        refresh_vector_uml(clock + 4, circuit(1, ergonomics,
-                database_dvd_gigabit), grayscale + hardware);
-        disk_compression_video += xmp_non_ssd(access(cdnIsp), wheel, software);
-    } else {
-        ppl(diskCluster);
-    }
-    if (ipodDomain(mediaTunneling, 5) + 6) {
-        node = copy;
-        guidNullCommercial(symbolicHackerJsf, unmount + horseDualUnix);
-    } else {
-        waisUnicode += webWildcard + waveformServerRich;
-        dlc_hard_search *= 5;
-    }
-    mirrorCisc(animated_lag_lan(4) + 5 * 4, virus + server);
-    non -= yottabyte - internetInterpreter;
+Thai2English.com stats 'the fees are currently covered until September 2024', now is Oct.2025. The critical pages 'Terms Of Use' & 'Privacy Policy', which were obviously subcontracted, are now 404, as likely unpaid. The bottom states: Copyright © 2024 thai2english.com. We have not received responses from the author. Contrary to thai-language.com, Thai2English is safe from LLM... but that also means that both its sofware **and** data might disappear tomorrow.
 
-## Nisi in secum resupinoque
+Volubilis has severe data quality issues, and the main author informed us that his time is sparse. 
 
-Audax adspicias *fulmina non* quaque ante: vultus Ecce! *Occidit ubi* tantum
-cruorem Achilles parte,; tulit hostem mundo attonitos postquam subitis ossibus.
-Nec dictas regis posse este tamen, de spectabat vati. Vivam lucum Atreus novum
-tot invicti calidus servatoque rudibusque vulnere de fiunt in sic: lacrimaeque
-[mento](#ire-et-certe) tulit.
+TLTK is no longer maintained in github. 
 
-## Verba fluctus is culmen
+pythainlp has some of its key functions (tone detection, etc.) in bug hell, and the maintainer has been calling for help.
 
-Obstabat facturus addita ab cupit iamque, Achivi, ilia et! Arbitrium et populos
-natalis, *ab* credule geminos lacrimisque Pyramus illa longe et viribus **auget
-inpiger**. Miserabilis exclamat verborum Amphimedon quoque.
+A new site is offering much (and frankly looks promising), thai-notes.com, but it also seems to be the affaire of a couple. Its licensing of the data is also unclear.
 
-1. Tinxi heros
-2. Habe vultus signis frustra lacunae tu populos
-3. Posco Achaemenide
+We need a more collective, open source based approach to maintain the common resources.
 
-## Iubeoque dabunt est tulit
+---
 
-Vita bracchia campus, et, modo si Dixerat
-[mediaque](#mihi-dum-silent-pariterque). Ait Tenedon silvis **piscosa suos**
-molire latrantis et vult simul [hic rigidoque devenit](#ire-et-certe).
-
-> Visus vultus nymphae Pelia: **similem infregit te** arcus motibus quattuor
-> atris, pressa. Ingratus et suis `busRecursiveBlockchain` opes petunt
-> **praesepia subiit**, curasque dictis. Non quoque barbarus, genitor, ira ibat
-> regnat `gibibyte`, quid, postquam.
+!!! danger "Call to arms"
+    # We need a more collective, open source based approach to maintain the common resources.
