@@ -32,7 +32,7 @@ jobs:
           EXTRA_PACKAGES: build-base
 ### OPT packs w C bindings which require pip install
           # GITHUB_DOMAIN: github.myenterprise.com
-### OPT          REQUIREMENTS: folder/requirements.txt
+          REQUIREMENTS: docs/requirements.txt
 ### OPT if using code plugins
 
 # version for tuto below
