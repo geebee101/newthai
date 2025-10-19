@@ -22,6 +22,10 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v2
 
+      - name: My Step
+        run: |
+          pip show mkdocs, mkdocs-material, pymdown-extensions
+
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
