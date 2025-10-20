@@ -58,6 +58,11 @@ A special mention: the paiboon+ reference
 
 The Paiboon+ dictionary —not the stand-alone phrasebook, should be the goto tool of any Thai L2 learner who can afford the iOS or Android app. [Entry counts](https://word-in-the-hand.com/thai-phrasebook-dictionary-app-entry-counts/) explains why entry counts are only a rough-and-ready way to compare dictionaries. It also, in a humblebrag-kind of way, shows why it is vastly superior to alternatives. (We do not have a relationship with Paiboon Publishing, except as a customer).
 
+Paiboon+ Th-En non-place entries: 63,316. More or less all nouns have classifiers. They are categorized in cats and subcats.
+Entries have Thai and English sounds, words can be decompose into smaller units, the spelling is explained.
+The associated phrasebook is also incredibly rich. Paiboon+ has many more features and entries (including English to Thai), but this number of 63,316 entries is what is comparable to the dictionaries under review.
+
+
 !!! info
 
     Counting entries is just enough to define the universe. Which is why in the rest of this analysis, we will compare word for word.
@@ -121,7 +126,7 @@ We nevertheless proceeded to further analysis on each pair, comparing them with 
 **Pair-wise set similarities (reduced set)**
 ///
 
-As this coeeficient is less sensitive to inequal group size, we decided to run the full gamut. Note that the size ranges from 8k to 100k+, so it still impacts the results.
+As this coefficient is less sensitive to inequal group size, we decided to run the full gamut. Note that the size ranges from 8k to 100k+, so it still impacts the results.
 
 ![Pair-wise set similarities (full set)](../../assets/set%20similarities%20-%20full.png)
 /// caption
@@ -133,7 +138,7 @@ As this coeeficient is less sensitive to inequal group size, we decided to run t
 
 The superset of the core 4, as well as TLC, and words extracted from wikipedia, all have around 65-70k words.
 
-By comparison, standard English dictionaries[citation needed 555], may have 400k, and upwards of 1M words. How is that?
+By comparison, standard English dictionaries[citation needed 555](https://en.wikipedia.org/wiki/List_of_dictionaries_by_number_of_words), may have 400k, and upwards of 1M words. How is that?
 
 
 ### Confirmed Primary Factors: Lexicographical Tradition & Scope
