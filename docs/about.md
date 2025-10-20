@@ -30,4 +30,5 @@ We need a more collective, open source based approach to maintain the common res
 ---
 
 !!! danger "Call to arms"
+
     # We need a more collective, open source based approach to maintain the common resources.
