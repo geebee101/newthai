@@ -1,6 +1,6 @@
 ---
 draft: false 
-date: 2025-09-15
+date: 2025-09-01
 categories:
   - Frequency list
   - Dictionaries

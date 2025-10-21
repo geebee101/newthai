@@ -1,6 +1,6 @@
 ---
 draft: false 
-date: 2025-09-15
+date: 2025-10-01
 categories:
   - Dictionaries
 authors:
