@@ -106,7 +106,7 @@ extra:
 # GitHub – github (enabled by default)
   analytics:
     provider: google
-    property: G-82318280 # gprweb
+    property: G-JNZBS0ZKF8 # gprweb
     feedback:
       title: Was this page helpful?
       ratings:
