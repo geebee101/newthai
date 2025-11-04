@@ -19,8 +19,8 @@ nav:
 #theme: readthedocs
 theme:
   name: material
-  favicon: images/favicon.png
-  #logo: 
+  favicon: assets/arrows-down-to-people.svg
+  logo: assets/arrows-down-to-people.svg
   language: en 
   icon:
     menu: material/abugida/thai
