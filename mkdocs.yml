@@ -23,7 +23,7 @@ theme:
   logo: assets/arrows-down-to-people.svg
   language: en 
   icon:
-    menu: material/abugida/thai
+    menu: material/abugida-thai
     repo: octicons/git-branch-16 # fontawesome/brands/github
   custom_dir: overrides
   palette:
