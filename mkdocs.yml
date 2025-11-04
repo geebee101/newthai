@@ -20,9 +20,10 @@ nav:
 theme:
   name: material
   favicon: images/favicon.png
+  #logo: 
   language: en 
   icon:
-    menu: fontawesome/solid/w
+    menu: material/abugida/thai
     repo: octicons/git-branch-16 # fontawesome/brands/github
   custom_dir: overrides
   palette:
