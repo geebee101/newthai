@@ -23,6 +23,8 @@ The แจ่มไพบูลย์/แรช Frequency List for Thai Learners
 - [:material-apps: Details / Reference](reference.md)
 - The [:material-pen: Blog](blog/) contains analysis of vocabularies, comparisons of dictionaries, correlations between frequency lists and dicts, further review and dig-down into Dr. Tantong Champaiboon thesis, including an analysis of the co-variance of the complexity metrics.
 
+All material, unless indicated is "Copyright © 2025 - แรช for newthai." It is made available under the following licences.
+
 ## Licences
 - licence for the data, assets, docs and blog is [:material-creative-commons: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
 - licence for the code is MIT
