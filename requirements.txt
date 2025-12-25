@@ -1,0 +1,5 @@
+# already satisfied by dockerfile from mhausenblas/mkdocs-deploy-gh-pages
+# forcing versions as issue with blocks.caption extension
+mkdocs >= 1.6.1
+mkdocs-material >= 9.6.22
+pymdown-extensions >= 10.16.1
